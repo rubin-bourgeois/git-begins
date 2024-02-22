@@ -1,0 +1,15 @@
+commande:
+git push
+L’éditeur d’applications s’inscrit auprès du service de notification push de l’OS en question.
+Le service fournit une API à l’éditeur d’applications. L’API est un moyen pour l’application de communiquer avec le service.
+L’éditeur d’applications ajoute le SDK à l’application. Le SDK est un bout de code spécifique qui permet à l’application de communiquer avec le service de notifications push.
+L’éditeur d’applications upload son application sur les app stores.
+git commit "test" -m
+L’éditeur d’applications s’inscrit auprès du service de notification push de l’OS en question.
+Le service fournit une API à l’éditeur d’applications. L’API est un moyen pour l’application de communiquer avec le service.
+L’éditeur d’applications ajoute le SDK à l’application. Le SDK est un bout de code spécifique qui permet à l’application de communiquer avec le service de notifications push.
+L’éditeur d’applications upload son application sur les app stores.
+git add
+Avant d'exécuter git commit , la commande git add est utilisée pour promouvoir 
+ou « stager » les changements apportés au projet qui seront stockés dans un commit. 
+Ces deux commandes git commit et git add font partie des plus fréquemment utilisées.
