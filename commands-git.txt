@@ -13,3 +13,5 @@ git add
 Avant d'exécuter git commit , la commande git add est utilisée pour promouvoir 
 ou « stager » les changements apportés au projet qui seront stockés dans un commit. 
 Ces deux commandes git commit et git add font partie des plus fréquemment utilisées.
+git branch puis git new_le-nom_de_la_branche 
+git checkout -b nomdelabranche
